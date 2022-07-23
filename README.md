@@ -5,6 +5,6 @@ While executing the Python code, if we are not able to install any Python Packag
 
 **Code:** "pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org selenium"
 
-**Create Executable(.exe) File of Python Script:** Insttal "PyInstaller" Package.
+**Create Executable(.exe) File of Python Script:** Install "PyInstaller" Package.
 
 **Code:** "pyinstaller --onefile pythonScriptName.py"
